@@ -1,4 +1,4 @@
-# Jugador-De-Blackjack-Con-IA-Basado-En-Reconocimiento-De-Cartas-Y-Estrategias-Estad-sticas
+# Jugador-De-Blackjack-Con-IA-Basado-En-Reconocimiento-De-Cartas-Y-Estrategias-Estadisticas
 Este repositorio contiene todos los archivos y recursos utilizados en el desarrollo del proyecto de inteligencia artificial para jugar Blackjack basado en el reconocimiento de cartas y estrategias estadísticas. A continuación, se describe la estructura del repositorio y el propósito de cada carpeta y archivo.
 
 Estructura del Repositorio
