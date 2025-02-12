@@ -12,7 +12,7 @@ Contiene todas las cartas utilizadas para el entrenamiento del modelo y el datas
 Incluye todos los elementos utilizados en la interfaz del programa:
 
 - Iconos, logos e imágenes utilizadas en la interfaz.
-- Imágenes de las cartas utilizadas en la aplicación.
+- Imágenes de las cartas utilizadas en la aplicación. Nota: Al principio se utilizaron 2 decks por lo que habia imagenes marcadas con un x2 pero esto no se ve reflejado en el proyecto final.
 - Resultado del entrenamiento: el archivo best.pt, que contiene el modelo entrenado.
 - Código del programa: archivos de la lógica del reconocimiento de cartas y la inteligencia artificial.
 
