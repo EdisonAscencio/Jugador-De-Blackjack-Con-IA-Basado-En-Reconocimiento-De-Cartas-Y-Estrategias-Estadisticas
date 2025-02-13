@@ -1,18 +1,17 @@
 # Jugador-De-Blackjack-Con-IA-Basado-En-Reconocimiento-De-Cartas-Y-Estrategias-Estadisticas
 Este repositorio contiene todos los archivos y recursos utilizados en el desarrollo del proyecto de inteligencia artificial para jugar Blackjack basado en el reconocimiento de cartas y estrategias estadísticas. A continuación, se describe la estructura del repositorio y el propósito de cada carpeta y archivo.
 
-Estructura del Repositorio
+# Estructura del Repositorio
 
 1. Carpeta Cartas
    
-Contiene todas las cartas utilizadas para el entrenamiento del modelo y el dataset. Nota: Se eliminaron algunas imágenes debido a su peso, por lo que la cantidad de imágenes puede diferir de la documentación original.
+Contiene todas las cartas utilizadas para el entrenamiento del modelo y el dataset. Nota: Se eliminó la mayoría de las imágenes debido a su peso, por lo que solo se ha subido la carpeta YOLODataset.
 
-3. Carpeta CodigoInterfaz
-   
+2. Carpeta CodigoInterfaz
+
 Incluye todos los elementos utilizados en la interfaz del programa:
-
 - Iconos, logos e imágenes utilizadas en la interfaz.
-- Imágenes de las cartas utilizadas en la aplicación. Nota: Al principio se utilizaron 2 decks por lo que habia imagenes marcadas con un x2 pero esto no se ve reflejado en el proyecto final.
+- Imágenes de las cartas utilizadas en la aplicación. Nota: Al principio se utilizaron 2 decks, por lo que había imágenes marcadas con un "x2", pero esto no se ve reflejado en el proyecto final.
 - Resultado del entrenamiento: el archivo best.pt, que contiene el modelo entrenado.
 - Código del programa: archivos de la lógica del reconocimiento de cartas y la inteligencia artificial.
 
@@ -24,9 +23,8 @@ Interfaz gráfica:
 
 3. Carpeta runs
 
-Contiene los resultados del entrenamiento:
-
-segment/train: Almacena los resultados y predicciones generadas durante el entrenamiento del modelo.
+- Contiene los resultados del entrenamiento:
+- segment/train: Almacena los resultados y predicciones generadas durante el entrenamiento del modelo.
 
 4. Archivos de Generación de Datos
 
@@ -41,6 +39,10 @@ Jugador De Blackjack Con IA Basado En Reconocimiento De Cartas Y Estrategias Est
 6. Archivos del Modelo YOLO
 
 - dataset.yaml: Archivo de configuración del dataset utilizado en el entrenamiento.
-- yolov8m-seg.pt: Modelo utilizado para el entrenamiento.
+- yolov8m-seg.pt: Modelo utilizado para el entrenamiento. Nota: El programa fue entrenado con YOLOv8, pero actualmente se encuentra disponible YOLOv11.
 
-Nota: El programa fue entrenado con YOLOv8, pero actualmente se encuentra disponible YOLOv11.
+# Recursos Adicionales
+
+- Descarga del proyecto (OneDrive): Enlace de descarga
+
+- Demostración en YouTube: (Próximamente, enlace por agregar)
