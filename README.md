@@ -5,7 +5,7 @@ Este repositorio contiene todos los archivos y recursos utilizados en el desarro
 
 1. Carpeta Cartas
    
- Contiene todas las cartas utilizadas para el entrenamiento del modelo y el dataset. Nota: Se eliminó la mayoría de las imágenes debido a su peso, por lo que solo se ha subido la carpeta YOLODataset.
+    Contiene todas las cartas utilizadas para el entrenamiento del modelo y el dataset. Nota: Se eliminó la mayoría de las imágenes debido a su peso, por lo que solo se ha subido la carpeta YOLODataset.
 
 2. Carpeta CodigoInterfaz
 
