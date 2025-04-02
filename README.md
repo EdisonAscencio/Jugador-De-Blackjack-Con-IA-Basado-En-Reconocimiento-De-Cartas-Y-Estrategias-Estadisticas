@@ -46,4 +46,4 @@ Jugador De Blackjack Con IA Basado En Reconocimiento De Cartas Y Estrategias Est
 
 - Descarga del proyecto (OneDrive): [Enlace de descarga](https://onedrive.live.com/?id=162C35387FEDF242%21s4b2e7c853541496383d84a033a073d86&resid=162C35387FEDF242%21s4b2e7c853541496383d84a033a073d86&cid=162c35387fedf242&ithint=folder&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8xNjJjMzUzODdmZWRmMjQyL0VvVjhMa3RCTldOSmc5aEtBem9IUFlZQkxsWlJOQXNxYjAzajd5Vkp4OWRidXc%5FZT1zU1loVmM&migratedtospo=true&v=validatepermission)
 
-- Demostración en YouTube: [(Video demostrativo)](https://www.youtube.com/watch?v=D98lrEYY3eo&t=347s)
+- Demostración en YouTube: [Video demostrativo](https://www.youtube.com/watch?v=D98lrEYY3eo&t=347s)
